@@ -16,7 +16,10 @@
 <img src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" alt="html5"> <img src="https://img.shields.io/badge/css3-1572B6?logo=css3" alt="css3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white" alt="JavaScript">
 <br>
 
-<img src="https://img.shields.io/badge/java-033963?logo=java" alt="java"> <img src="https://img.shields.io/badge/spring_boot-6DB33F?logo=springboot&logoColor=white" alt="spring_boot"> <img src="https://img.shields.io/badge/spring_security-6DB33F?logo=springsecurity&logoColor=white" alt="spring_security"> <img src="https://img.shields.io/badge/jsonwebtokens-000000?logo=jsonwebtokens" alt="jsonwebtokens">
+<img src="https://img.shields.io/badge/c-033963?logo=c" alt="c"> <img src="https://img.shields.io/badge/java-6DB33F?logo=java&logoColor=white" alt="spring_boot"> <img src="https://img.shields.io/badge/python-gray?logo=python" alt="python"> 
+<br>
+
+<img src="https://img.shields.io/badge/spring_boot-6DB33F?logo=springboot&logoColor=white" alt="spring_boot"> <img src="https://img.shields.io/badge/spring_security-6DB33F?logo=springsecurity&logoColor=white" alt="spring_security"> <img src="https://img.shields.io/badge/jsonwebtokens-000000?logo=jsonwebtokens" alt="jsonwebtokens">
 <br>
 
 <img src="https://img.shields.io/badge/Assert_J-009688?logo=Assert_J" alt="Assert_J"> <img src="https://img.shields.io/badge/Mockito-A5CD39?logo=Mockito" alt="Mockito">
