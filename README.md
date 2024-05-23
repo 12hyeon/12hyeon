@@ -2,8 +2,12 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1212guswjd@gmail.com)](1212guswjd@gmail.com)
 
 ## Introduce
-- java와 SpringBoot를 이용하여 효율적인 프로그램을 추구합니다.
-- 불편함 개선 및 지속적인 유지보수를 고려한 개발을 진행합니다.
+- <b>java와 SpringBoot를 이용하여 효율적인 프로그램을 추구합니다.</b>
+- <b>불편함 개선 및 지속적인 유지보수를 고려한 개발을 진행합니다. </b>
+
+- C 언어로 Shell과 OS 스케줄링 알고리즘 구현 경험이 있습니다.
+- Python으로 데이터 분석을 진행하고, 영상 정보를 처리한 경험이 있습니다. 
+
 <br>
 
 ## Experience
