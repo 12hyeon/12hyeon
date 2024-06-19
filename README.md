@@ -1,25 +1,30 @@
 ### 이현정
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1212guswjd@gmail.com)](1212guswjd@gmail.com)
 
-## Introduce
-- <b>java와 SpringBoot를 이용하여 효율적인 프로그램을 추구합니다.</b>
-- <b>불편함 개선 및 지속적인 유지보수를 고려한 개발을 진행합니다. </b>
+## 소개
+- C 및 Java를 사용하여 시스템 최적화를 고려하여 설계하고 개발합니다.
+  - 마일스톤 작성 및 진행 상황 문서화
+  - 습관적인 주석 및 TDD에 따른 테스트 코드 사용
+  - CI/CD 구현하여 프로세스 효율 향상
 
-- C 언어로 Shell과 OS 스케줄링 알고리즘 구현 경험이 있습니다.
-- Python으로 데이터 분석을 진행하고, 영상 정보를 처리한 경험이 있습니다. 
+- 계획에 따른 세부적인 일정 관리 및 원활한 협업이 가능합니다.
+  - 프리온보딩 인턴십 7기, 멋쟁이사자처럼 11기 활동
+  - 운영체제, 시스템 프로그래밍 관련 실습 경험
+  - Notion과 Timer 통한 일정 관리 
 
 <br>
 
-## Graduate
+## 학교
 | 분류    | 이름                              | 날짜                          |
 |---------|-----------------------------------|-------------------------------|
 | 대학 | 단국대학교 소프트웨어학과           | 2020.03 ~ 2024.02            |
 
 <br>
 
-## Experience
+## 경험
 | 분류    | 이름                              | 날짜                          |
 |---------|-----------------------------------|-------------------------------|
+| 교육 이수 | 프리온보딩 인턴십 7기         | 2023.09 ~ 2023.10     |
 | 교육 이수 | 멋쟁이사자처럼 대학 11기          | 2023.01 ~ 2023.12     |
 | 공모전   | 2022 공공데이터 활용 서비스 공모전 | 2022.07 ~ 2022.09           |
 | 공모전   | 2022 날씨 빅데이터               | 2022.05 ~ 2022.08           |
@@ -30,7 +35,12 @@
 
 <br>
 
-## Skill
+## 자격증
+- 정보처리기사 (24.06.18)
+- SQL 개발자 (24.04.14)
+- AI-900 (21.12.31)
+
+## 기술 및 역량
 <img src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" alt="html5"> <img src="https://img.shields.io/badge/css3-1572B6?logo=css3" alt="css3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white" alt="JavaScript">
 <br>
 
